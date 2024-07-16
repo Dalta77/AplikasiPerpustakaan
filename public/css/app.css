@@ -1,0 +1,14 @@
+body {
+    display: flex;
+}
+
+nav {
+    width: 256px;
+    position: fixed;
+    height: 100%;
+}
+
+main {
+    margin-left: 256px;
+    width: calc(100% - 256px);
+}
