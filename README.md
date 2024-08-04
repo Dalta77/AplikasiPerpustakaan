@@ -1,4 +1,4 @@
-![Welcome Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/welcome.png?raw=true)
+![Welcome Image](https://github.com/Dalta77/AplikasiPerpustakaan/blob/main/Screenshots/Welcome.jpg?raw=true)
 <p><b>Tampilan Welcome</b></p>
 
 ![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
